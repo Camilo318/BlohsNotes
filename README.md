@@ -39,6 +39,6 @@ This will run the webpack dev server to see the UI on localhost port 3000
 
 > Note: You should use the main branch to run these commands
 
-Please feel free to play around with the project. If you want to contribute, by all means go ahead and submit your PR 😁.
+Please feel free to play around with the project. If you want to contribute, by all means go ahead and submit your PR 😁
 
-Take a look to the deployed version [here](https://blohsh-notes.herokuapp.com/).
+Take a look to the deployed version [here](https://blohsh-notes.herokuapp.com/)
